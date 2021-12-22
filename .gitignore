@@ -1,0 +1,5 @@
+*
+!.gitignore
+!*/
+!jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb
+!jupyter_russian/topic02_visual_analysis/lesson2_practice_visual_titanic.ipynb
